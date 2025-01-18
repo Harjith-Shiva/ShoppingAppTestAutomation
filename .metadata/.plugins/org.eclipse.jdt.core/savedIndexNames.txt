@@ -56,6 +56,5 @@ INDEX VERSION 1.134+C:\Users\Harji\eclipse-workspace-SeleniumTestAutomation_Shop
 852817665.index
 3588194679.index
 3560591294.index
-4118420981.index
 826735312.index
 593702884.index
